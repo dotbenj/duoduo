@@ -10,7 +10,7 @@ NestJS HTTP API (TypeScript) with Swagger.
 
 ## Configuration
 
-Environment variables are loaded from `dev.env` (via `dotenv`) if the file exists.
+Environment variables are loaded via NestJS `ConfigModule` from `dev.env` by default (override with `DOTENV_CONFIG_PATH`).
 
 - `PORT` (default: `3000`)
 - `MONGO_DB`, `MONGO_USERNAME`, `MONGO_PASSWORD`

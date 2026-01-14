@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1768424531019" clover="3.2.0">
-  <project timestamp="1768424531019" name="All files">
-    <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="20" coveredelements="20" complexity="0" loc="17" ncloc="17" packages="2" files="4" classes="4"/>
+<coverage generated="1768425058198" clover="3.2.0">
+  <project timestamp="1768425058198" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3" elements="24" coveredelements="24" complexity="0" loc="19" ncloc="19" packages="2" files="4" classes="4"/>
     <package name="src">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
       <file name="app.module.ts" path="/var/tmp/vibe-kanban/worktrees/5e70-add-dockerisatio/duoduotest/src/app.module.ts">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.health">
