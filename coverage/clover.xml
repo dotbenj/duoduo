@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1768402455559" clover="3.2.0">
-  <project timestamp="1768402455559" name="All files">
+<coverage generated="1768424531019" clover="3.2.0">
+  <project timestamp="1768424531019" name="All files">
     <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="20" coveredelements="20" complexity="0" loc="17" ncloc="17" packages="2" files="4" classes="4"/>
     <package name="src">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-      <file name="app.module.ts" path="/var/tmp/vibe-kanban/worktrees/fe26-initialize-duodu/duoduotest/src/app.module.ts">
+      <file name="app.module.ts" path="/var/tmp/vibe-kanban/worktrees/5e70-add-dockerisatio/duoduotest/src/app.module.ts">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -13,7 +13,7 @@
     </package>
     <package name="src.health">
       <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
-      <file name="health.controller.ts" path="/var/tmp/vibe-kanban/worktrees/fe26-initialize-duodu/duoduotest/src/health/health.controller.ts">
+      <file name="health.controller.ts" path="/var/tmp/vibe-kanban/worktrees/5e70-add-dockerisatio/duoduotest/src/health/health.controller.ts">
         <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="2" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
@@ -23,14 +23,14 @@
         <line num="18" count="2" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
       </file>
-      <file name="health.module.ts" path="/var/tmp/vibe-kanban/worktrees/fe26-initialize-duodu/duoduotest/src/health/health.module.ts">
+      <file name="health.module.ts" path="/var/tmp/vibe-kanban/worktrees/5e70-add-dockerisatio/duoduotest/src/health/health.module.ts">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
       </file>
-      <file name="health.service.ts" path="/var/tmp/vibe-kanban/worktrees/fe26-initialize-duodu/duoduotest/src/health/health.service.ts">
+      <file name="health.service.ts" path="/var/tmp/vibe-kanban/worktrees/5e70-add-dockerisatio/duoduotest/src/health/health.service.ts">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="3" type="stmt"/>
         <line num="6" count="3" type="stmt"/>
